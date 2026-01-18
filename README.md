@@ -1,1 +1,1 @@
-# Selenium POM Food Management
+# Selenium POM Ecomm Suite
